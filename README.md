@@ -113,7 +113,9 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Data Str
 
 ## 📈 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=arifxrayeen&theme=radical&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+<a href="https://github.com/arifxrayeen?tab=achievements">
+  <img src="https://img.shields.io/badge/GitHub-Achievements-6366F1?style=for-the-badge&logo=github" alt="GitHub Achievements" />
+</a>
 
 ---
 
@@ -144,7 +146,11 @@ const arif = {
 
   ### 🚀 Let's Build Something Amazing Together!
 
-  ![Snake animation](https://github.com/arifxrayeen/arifxrayeen/blob/output/github-contribution-grid-snake-dark.svg)
+ <div align="center">
+  <h3>🚀 Let's Build Something Amazing Together!</h3>
+  <img src="https://raw.githubusercontent.com/arifxrayeen/arifxrayeen/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/arifxrayeen/arifxrayeen/output/github-contribution-grid-snake.svg" alt="Snake animation light" />
+</div>
 
   *Thanks for visiting my profile! Feel free to reach out for collaborations or just to say hello! 👋*
 
