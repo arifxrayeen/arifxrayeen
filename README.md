@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Arif+Rayeen;Full+Stack+Developer;DSA+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Arif+Rayeen;DSA+Enthusiast;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arifxrayeen&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arifxrayeen&theme=radical" alt="GitHub Stats" />
 </div>
 
 I'm a passionate **Full Stack Developer** with a strong foundation in **Data Structures and Algorithms**. I enjoy building scalable applications and solving complex problems. Focused on mastering modern web technologies and contributing to open-source.
@@ -113,9 +113,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Data Str
 
 ## 📈 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arifxrayeen&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=arifxrayeen&theme=radical&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 
 ---
 
