@@ -146,15 +146,13 @@ const arif = {
 
   ### 🚀 Let's Build Something Amazing Together!
 
- <div align="center">
-  <h3>🚀 Let's Build Something Amazing Together!</h3>
-  <img src="https://raw.githubusercontent.com/arifxrayeen/arifxrayeen/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  <img src="https://raw.githubusercontent.com/arifxrayeen/arifxrayeen/output/github-contribution-grid-snake.svg" alt="Snake animation light" />
-</div>
+  ![Snake animation](https://github.com/arifxrayeen/arifxrayeen/blob/output/github-contribution-grid-snake-dark.svg)
 
   *Thanks for visiting my profile! Feel free to reach out for collaborations or just to say hello! 👋*
 
 </div>
+
+  
 
 ---
 
